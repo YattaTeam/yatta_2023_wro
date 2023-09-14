@@ -1,0 +1,8 @@
+gpiozero==1.6.2
+numpy==1.23.1
+opencv_contrib_python==4.8.0.74
+opencv_python==4.8.0.76
+picamera==1.13
+pyserial==3.5
+smbus==1.1.post2
+RPi.GPIO==0.7.1
